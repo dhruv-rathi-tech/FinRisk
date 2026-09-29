@@ -133,8 +133,8 @@ Real SEC filings present significant reporting inconsistencies that this pipelin
 ### 2. Setup
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/dhruv-rathi-tech/finrisk-engine.git
-cd finrisk-engine
+git clone https://github.com/dhruv-rathi-tech/FinRisk.git
+cd FinRisk
 pip install -r requirements.txt
 ```
 
